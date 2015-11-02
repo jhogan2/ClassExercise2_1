@@ -1,3 +1,9 @@
+/*
+*Name James Hogan
+*Date: Nov 2 2015
+*Description: using a delimiter with a Scanner class
+*/
+
 import java.util.Scanner;
 
 public class ClassExercise2_1 {
